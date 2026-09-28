@@ -26,7 +26,7 @@ I create digital designs and web applications while continuously learning and im
 
 My friends call me 'Renier', I'm a **BS Information Technology student** who enjoys building software, exploring new technologies, and turning ideas into practical applications.
 
-I primarily work with **Laravel**, **PHP**, and **PostgreSQL**, while continuously expanding my knowledge of **Python**, **C++**, and modern web development. I enjoy learning beyond my curriculum because there's always something new to discover in software engineering.
+I primarily work with **Laravel**, **PHP**, and **PostgreSQL**, while continuously expanding my knowledge of **Kotlin**, **C#**, and modern web development. I enjoy learning beyond my curriculum because there's always something new to discover in software engineering.
 
 Most of my time is spent building personal projects, experimenting with new technologies, and improving my understanding of programming concepts. My goal is to become a better developer by creating software that is useful, maintainable, and solves real-world problems.
 
