@@ -19,19 +19,14 @@ jobs:
     timeout-minutes: 10
 
     steps:
-      - name: Checkout Repository
-        uses: actions/checkout@v4
-
-      - name: Generate GitHub Contributions Snake Animations
+      - name: Generate GitHub Contributions Snake
         uses: Platane/snk@v3
         with:
-          github_user_name: kalabasaa
+          github_user_name: ${{ github.repository_owner }}
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
             dist/github-snake.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Deploy to Output Branch
         uses: peaceiris/actions-gh-pages@v4
