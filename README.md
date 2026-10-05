@@ -110,8 +110,6 @@ Outside of programming, I enjoy playing video games, working out, and spending t
 
 </div>
 
-
-
 ---  
 
 # GitHub Activity
@@ -123,5 +121,3 @@ Outside of programming, I enjoy playing video games, working out, and spending t
     alt="GitHub Contribution Snake"
   />
 </div>
-
-
