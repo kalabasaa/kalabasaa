@@ -1,7 +1,7 @@
 <div align="center">
 
 # Jhon Renier Tambogon
-<!-- Hi, I'm -->
+
 ### Layout Graphic Artist • Backend Web Developer
 
 I create digital designs and web applications while continuously learning and improving my skills in design, programming, and software development.
