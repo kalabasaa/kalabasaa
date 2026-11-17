@@ -6,8 +6,8 @@ I build web applications and create digital designs, continuously expanding my k
 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
-[![C++](https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white)](#)
-[![C#](https://custom-icon-badges.demolab.com/badge/C%23-007ACC.svg?logo=cshrp&logoColor=white)](#)
+[![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)](#)
+[![C#](https://custom-icon-badges.demolab.com/badge/C%23-007ACC.svg?style=flat-square&logo=cshrp&logoColor=white)](#)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=323330)
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-F9FAFB?style=for-the-badge)](https://reniertambogon.vercel.app)
