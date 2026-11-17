@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:F7F7F5,100:E8E8E3&height=150&text=Jhon%20Renier%20Tambogon&fontColor=171717&fontSize=38&desc=Layout%20Graphic%20Artist%20%E2%80%A2%20Backend%20Web%20Developer&descSize=16&descAlignY=72&fontAlignY=42" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:F7F7F5,100:E8E8E3&height=150&text=Jhon%20Renier%20Tambogon&fontColor=171717&fontSize=38&desc=Backend%20Web%20Developer%20%E2%80%A2%20Layout%20Graphic%20Artist&descSize=16&descAlignY=72&fontAlignY=42" width="100%"/>
 
-I build web applications and create digital designs, continuously expanding my knowledge and refining my skills.
+*I build web applications and create digital designs, continuously expanding my knowledge and refining my skills.*
 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
@@ -23,7 +23,7 @@ I build web applications and create digital designs, continuously expanding my k
 
 My friends call me 'Renier', I'm a BS Information Technology student who enjoys building software, exploring new technologies, and turning ideas into practical applications.
 
-I primarily work with Laravel, PHP, and PostgreSQL, while continuously expanding my knowledge of Kotlin, C#, and modern web development. I enjoy learning beyond my curriculum because there's always something new to discover in software engineering.
+I primarily work with Laravel, PHP, and PostgreSQL while continuously expanding my knowledge of other tools and technologies. I enjoy learning beyond my curriculum because there's always something new to discover in software engineering.
 
 Most of my time is spent building personal projects, experimenting with new technologies, and improving my understanding of programming concepts. My goal is to become a better developer by creating software that is useful, maintainable, and solves real-world problems.
 
