@@ -21,7 +21,9 @@
 
 ## About Me
 
-<img src="./assets/ascii-art.png" width="220" align="right"/>
+<img src="./ascii-art.png" width="370" align="right"/>
+
+
 
 My friends call me 'Renier', I'm a BS Information Technology student who enjoys building software, exploring new technologies, and turning ideas into practical applications.
 
