@@ -21,6 +21,8 @@
 
 ## About Me
 
+<img src="./assets/ascii-art.png" width="220" align="right"/>
+
 My friends call me 'Renier', I'm a BS Information Technology student who enjoys building software, exploring new technologies, and turning ideas into practical applications.
 
 I primarily work with Laravel, PHP, and PostgreSQL while continuously expanding my knowledge of other tools and technologies. I enjoy learning beyond my curriculum because there's always something new to discover in software engineering.
@@ -28,6 +30,8 @@ I primarily work with Laravel, PHP, and PostgreSQL while continuously expanding 
 Most of my time is spent building personal projects, experimenting with new technologies, and improving my understanding of programming concepts. My goal is to become a better developer by creating software that is useful, maintainable, and solves real-world problems.
 
 Outside of programming, I enjoy playing video games, working out, and spending time painting or sketching.
+
+<br clear="right"/>
 
 ## Tech Stack
 
@@ -80,4 +84,10 @@ Outside of programming, I enjoy playing video games, working out, and spending t
     width="100%"
     alt="GitHub Contribution Snake"
   />
+</div>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:F7F7F5,100:E8E8E3&height=60&section=footer" width="100%"/>
+
 </div>
