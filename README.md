@@ -90,6 +90,6 @@ Outside of programming, I enjoy playing video games, working out, and spending t
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:F7F7F5,100:E8E8E3&height=60&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:F7F7F5,100:E8E8E3&height=7&section=footer" width="100%"/>
 
 </div>
