@@ -21,7 +21,7 @@
 
 ## About Me
 
-<img src="./ascii-art.png" width="370" align="right"/>
+<img src="./ascii-art.png" width="290" align="right"/>
 
 
 
